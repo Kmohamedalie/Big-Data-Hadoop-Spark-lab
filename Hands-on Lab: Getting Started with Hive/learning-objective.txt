@@ -1,0 +1,10 @@
+Learning Objectives
+At the end of this lab, you will be able to:
+
+Create a table in Hive
+Add data to the table using file
+Add data to the table using insert
+Query the data in the table using SQL commands
+Prerequisites
+You should comfortable working with the Linux terminal
+Prior knowledge of SQL will be helpful
