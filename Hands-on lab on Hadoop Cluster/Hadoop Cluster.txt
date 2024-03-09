@@ -1,0 +1,12 @@
+- What is a Hadoop Cluster?
+A Hadoop cluster is a collection of computers, known as nodes, that are networked together to perform parallel computations on big data sets. The Name node is the master node of the Hadoop Distributed File System (HDFS). It maintains the meta data of the files in the RAM for quick access. An actual Hadoop Cluster setup involves extensives resources which are not within the scope of this lab. In this lab, you will use dockerized hadoop to create a Hadoop Cluster which will have:
+
+1. Namenode
+2. Datanode
+3. Node Manager
+4. Resource manager
+5. Hadoop history server
+
+- Objectives
+Run a dockerized Cluster Hadoop instance
+Create a file in the HDFS and view it on the GUI
