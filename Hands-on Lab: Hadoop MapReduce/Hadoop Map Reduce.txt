@@ -1,0 +1,3 @@
+# Objectives
+Run a single-node Hadoop instance
+Perform a word count using Hadoop Map Reduce.
