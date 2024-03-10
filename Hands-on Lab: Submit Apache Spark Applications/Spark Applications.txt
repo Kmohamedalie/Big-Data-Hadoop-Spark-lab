@@ -1,0 +1,9 @@
+Prerequisites
+Note: If you are running this lab within the Skillsnetwort Lab environment, all prerequisites are already installed for you
+
+The only pre-requisites to this lab are:
+
+- A working docker installation
+- Docker Compose
+- The git command line tool
+- A python development environment
