@@ -1,0 +1,8 @@
+Spark SQL is a Spark module for structured data processing. It is sed to query structured data inside Spark programs, using either SQL or a familiar DataFrame API.
+
+After completing this lab you will be able to:
+
+- Load a data file into a dataframe
+- Create a Table View for the dataframe
+- Run basic SQL queries and aggregate data on the table view
+ Create a Pandas UDF to perform columnar operations
