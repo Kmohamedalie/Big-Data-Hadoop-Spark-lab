@@ -29,3 +29,5 @@ Apache Spark™ is a multi-language engine for executing data engineering, data 
 [Hands-on Lab: Getting Started with Spark using Python](https://github.com/Kmohamedalie/Big-Data-Hadoop-Spark-lab/tree/master/Hands-on%20Lab%3A%20Getting%20Started%20with%20Spark%20using%20Python): Introduction to Spark.
 
 [Hands-on Lab: Introduction to DataFrames](https://github.com/Kmohamedalie/Big-Data-Hadoop-Spark-lab/blob/master/Hands-on%20Lab%3A%20Introduction%20to%20DataFrames/DataFrames.ipynb): A DataFrame is two-dimensional. Columns can be of different data types. DataFrames accept many data inputs including series and other DataFrames. You can pass indexes(row labels) and columns (column labels). Indexes can be numbers, dates, or strings/tuples.
+
+[Hands-On Lab: Introduction to SparkSQL](): Spark SQL is a Spark module for structured data processing. It query structured data inside Spark programs, using either SQL or a familiar DataFrame API.
