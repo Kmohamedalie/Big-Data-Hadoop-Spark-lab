@@ -1,0 +1,8 @@
+A DataFrame is two-dimensional. Columns can be of different data types. DataFrames accept many data inputs including series and other DataFrames. You can pass indexes (row labels) and columns (column labels). Indexes can be numbers, dates, or strings/tuples.
+
+After completing this lab you will be able to:
+
+Load a data file into a DataFrame
+View the data schema of a DataFrame
+Perform basic data manipulation
+Aggregate data in a DataFrame
