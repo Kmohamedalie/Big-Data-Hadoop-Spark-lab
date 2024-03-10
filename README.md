@@ -15,3 +15,4 @@ The Apache Hadoop software library is a framework that allows for the distribute
 ### **[Apache Spark⭐](https://spark.apache.org/)** : 
 Apache Spark™ is a multi-language engine for executing data engineering, data science, and machine learning on single-node machines or clusters.
 
+[Hands-on Lab: Getting Started with Spark using Python](https://github.com/Kmohamedalie/Big-Data-Hadoop-Spark-lab/tree/master/Hands-on%20Lab%3A%20Getting%20Started%20with%20Spark%20using%20Python): Introduction to Spark.
