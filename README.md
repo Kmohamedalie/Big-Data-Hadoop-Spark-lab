@@ -13,6 +13,6 @@ The Apache Hadoop software library is a framework that allows for the distribute
 [Hands-on lab on Hadoop Cluster](https://github.com/Kmohamedalie/IBM-Hadoop-Spark-lab/tree/master/Hands-on%20lab%20on%20Hadoop%20Cluster): A Hadoop cluster is a collection of computers, known as nodes, that are networked together to perform parallel computations on big data sets. The Name node is the master node of the Hadoop Distributed File System (HDFS). It maintains the meta data of the files in the RAM for quick access.
 
 ### **[Apache Spark⭐](https://spark.apache.org/)** : 
-Apache Spark™ is a multi-language engine for executing data engineering, data science, and machine learning on single-node machines or clusters.
+Apache Spark™ is a multi-language engine for executing data engineering, data science, and machine learning on single-node machines or clusters. Its versatility, offering distributed data processing, real-time streaming, and in-memory processing capabilities, making it a powerful choice for various data processing tasks. 
 
 [Hands-on Lab: Getting Started with Spark using Python](https://github.com/Kmohamedalie/Big-Data-Hadoop-Spark-lab/tree/master/Hands-on%20Lab%3A%20Getting%20Started%20with%20Spark%20using%20Python): Introduction to Spark.
