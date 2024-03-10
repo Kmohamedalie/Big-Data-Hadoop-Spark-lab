@@ -3,6 +3,9 @@
 ###  **Big Data🛢️ with Hadoop🐘 and Spark⭐ part of [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer#courses)**
  
 
+<br/><br/>
+
+
 
 
 ### **[Apache Hadoop 🐘](https://hadoop.apache.org/)** : 
@@ -17,6 +20,12 @@ The Apache Hadoop software library is a framework that allows for the distribute
 [Hands-on lab on Hadoop Map-Reduce](https://github.com/Kmohamedalie/IBM-Hadoop-Spark-lab/tree/master/Hands-on%20Lab%3A%20Hadoop%20MapReduce): MapReduce is a programming pattern that enables massive scalability across hundreds or thousands of servers in a Hadoop cluster. As the processing component, MapReduce is the heart of Apache Hadoop. MapReduce is a processing technique and a program model for distributed computing, it is based on Java. Distributed computing is a system or machine with multiple components located on different machines. Each component has its own job, but the components communicate with each other to run as one system to the end user." The MapReduce algorithm consists of two important tasks - Map and Reduce. Many MapReduce programs are written in Java. MapReduce can also be coded in C++, Python, Ruby, R and so on.
 
 [Hands-on lab on Hadoop Cluster](https://github.com/Kmohamedalie/IBM-Hadoop-Spark-lab/tree/master/Hands-on%20lab%20on%20Hadoop%20Cluster): A Hadoop cluster is a collection of computers, known as nodes, that are networked together to perform parallel computations on big data sets. The Name node is the master node of the Hadoop Distributed File System (HDFS). It maintains the meta data of the files in the RAM for quick access.
+ 
+
+<br/><br/>
+
+
+
 
 ### **[Apache Spark⭐](https://spark.apache.org/)** : 
 
