@@ -45,5 +45,9 @@ Apache Spark™ is a multi-language engine for executing data engineering, data 
 
 [Apache Spark Monitoring and Debugging](https://github.com/Kmohamedalie/Big-Data-Hadoop-Spark-lab/tree/master/Apache%20Spark%20Monitoring%20and%20Debugging): practice how to monitor and debug a Spark application through the web UI.
 
-### **Practice Project Overview**
+<br/><br/>
+
+
+
+### **[Practice Project Overview](https://github.com/Kmohamedalie/Big-Data-Hadoop-Spark-lab/blob/master/Practice%20Project/FinalAssignment.ipynb)**
 This practice project focuses on data transformation and integration using PySpark. You will work with two datasets, and perform various transformations such as adding columns, renaming columns, dropping unnecessary columns, joining dataframes, and finally, writing the results into a Hive warehouse and an HDFS file system.
