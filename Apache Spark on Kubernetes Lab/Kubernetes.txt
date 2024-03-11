@@ -1,0 +1,2 @@
+- Create a Kubernetes Pod - a set of containers running inside Kubernetes - here, containing Apache Spark which we use to submit jobs against Kubernetes
+- Submit Apache Spark jobs to Kubernetes
