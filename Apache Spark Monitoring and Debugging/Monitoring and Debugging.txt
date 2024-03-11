@@ -1,0 +1,9 @@
+Apache Spark Monitoring and Debugging
+
+Objectives
+After completing this lab, you will be able to:
+
+Start a Spark Standalone Cluster and connect with the PySpark shell.
+Create a DataFrame and open the application web UI.
+Debug a runtime error by locating the failed task in the web UI.
+Run an SQL query to monitor, then scale up by adding another worker to the cluster.
