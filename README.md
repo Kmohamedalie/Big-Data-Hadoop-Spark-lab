@@ -42,3 +42,8 @@ Apache Spark™ is a multi-language engine for executing data engineering, data 
 [Hands-On Lab: Introduction to SparkSQL](https://github.com/Kmohamedalie/Big-Data-Hadoop-Spark-lab/blob/master/Hands-On%20Lab%3A%20Introduction%20to%20SparkSQL/SparkSQL.ipynb): Spark SQL is a Spark module for structured data processing. It query structured data inside Spark programs, using either SQL or a familiar DataFrame API.
 
 [Submit Apache Spark Applications Lab](https://github.com/Kmohamedalie/Big-Data-Hadoop-Spark-lab/blob/master/Hands-on%20Lab%3A%20Submit%20Apache%20Spark%20Applications/Spark%20Application.pdf): In this lab, you will learn how to submit Apache Spark applications from a python script. This exercise is straightforward thanks to Docker Compose.
+
+[Apache Spark Monitoring and Debugging](https://github.com/Kmohamedalie/Big-Data-Hadoop-Spark-lab/tree/master/Apache%20Spark%20Monitoring%20and%20Debugging): practice how to monitor and debug a Spark application through the web UI.
+
+### **Practice Project Overview**
+This practice project focuses on data transformation and integration using PySpark. You will work with two datasets, and perform various transformations such as adding columns, renaming columns, dropping unnecessary columns, joining dataframes, and finally, writing the results into a Hive warehouse and an HDFS file system.
